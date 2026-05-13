@@ -1,4 +1,4 @@
-# WebSocket Payment Service
+# WebSocket PayGate Service
 
 A production-ready, real-time payment processing system built with Java 17 Spring Boot backend and Angular frontend. The system enables secure, bidirectional communication for payment transactions using WebSocket/STOMP protocol, providing immediate status updates to users as transactions progress through their lifecycle.
 
