@@ -420,7 +420,7 @@ logging:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
 
-## 🆘 Support
+<!-- ## 🆘 Support
 
 ### Getting Help
 - **Documentation**: Check this README and inline code comments
@@ -428,7 +428,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Discussions**: Use GitHub Discussions for questions
 
 ### Reporting Security Issues
-Please report security vulnerabilities to security@yourcompany.com instead of creating public issues.
+Please report security vulnerabilities to security@yourcompany.com instead of creating public issues. -->
 
 ## 🗺️ Roadmap
 
