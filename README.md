@@ -27,7 +27,7 @@ A production-ready, real-time payment processing system built with Java 17 Sprin
 - **Load Balancing**: Support for multiple backend instances
 - **Auto-scaling**: Kubernetes HPA configuration
 
-## 🏗️ Architecture
+<!-- ## 🏗️ Architecture
 
 ### System Architecture
 ```
@@ -47,7 +47,7 @@ A production-ready, real-time payment processing system built with Java 17 Sprin
                        │   PostgreSQL    │◄────────────┘
                        │   Database      │
                        └─────────────────┘
-```
+``` -->
 
 ### Technology Stack
 
@@ -82,7 +82,7 @@ A production-ready, real-time payment processing system built with Java 17 Sprin
 - Node.js 18+ (for frontend development)
 - Git
 
-### 1. Clone the Repository
+<!-- ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-org/websocket-payment-service.git
 cd websocket-payment-service
@@ -408,7 +408,7 @@ logging:
 5. Ensure all tests pass (`./mvnw test && npm test`)
 6. Commit your changes (`git commit -m 'Add amazing feature'`)
 7. Push to the branch (`git push origin feature/amazing-feature`)
-8. Open a Pull Request
+8. Open a Pull Request -->
 
 ### Code Standards
 - **Java**: Follow Google Java Style Guide
@@ -416,9 +416,9 @@ logging:
 - **Testing**: Minimum 80% code coverage
 - **Documentation**: Update README and API docs
 
-## 📄 License
+<!-- ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
 
 ## 🆘 Support
 
@@ -447,4 +447,4 @@ Please report security vulnerabilities to security@yourcompany.com instead of cr
 
 ---
 
-**Built with ❤️ by the Payment Team**
+**Built with ❤️ by the T**
