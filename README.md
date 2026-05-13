@@ -440,11 +440,11 @@ Please report security vulnerabilities to security@yourcompany.com instead of cr
 - [ ] Advanced analytics and reporting
 - [ ] Multi-tenant architecture
 
-### Version History
+<!-- ### Version History
 - **v1.0.0**: Initial release with core payment functionality
 - **v1.1.0**: Admin dashboard and monitoring
-- **v1.2.0**: Enhanced security and performance optimizations
+- **v1.2.0**: Enhanced security and performance optimizations -->
 
 ---
 
-**Built with ❤️ by the T**
+**Built with ❤️**
